@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>93119DA5-DF69-4ADD-AAD7-2C6781DB8C1B</string>
+	<string>28841239-C2AA-4F2E-A9CE-5BAC5B835D8C</string>
 	<key>IDESourceControlProjectName</key>
 	<string>helloWorld</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>266D4582-8F3F-40CD-ACED-F65B35A454EC</key>
-		<string>https://github.com/naoyawatanabe/iOSTraining.git</string>
+		<key>9C57E20E-D371-4CB5-BA5A-DB86E5E3199B</key>
+		<string>https://github.com/naoyawatanabe/helloWorld.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>helloWorld/helloWorld.xcodeproj/project.xcworkspace</string>
+	<string>helloWorld.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>266D4582-8F3F-40CD-ACED-F65B35A454EC</key>
-		<string>../../..</string>
+		<key>9C57E20E-D371-4CB5-BA5A-DB86E5E3199B</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/naoyawatanabe/iOSTraining.git</string>
+	<string>https://github.com/naoyawatanabe/helloWorld.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>266D4582-8F3F-40CD-ACED-F65B35A454EC</string>
+	<string>9C57E20E-D371-4CB5-BA5A-DB86E5E3199B</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>266D4582-8F3F-40CD-ACED-F65B35A454EC</string>
+			<string>9C57E20E-D371-4CB5-BA5A-DB86E5E3199B</string>
 			<key>IDESourceControlWCCName</key>
-			<string>iOSTraining</string>
+			<string>helloWorld</string>
 		</dict>
 	</array>
 </dict>
