@@ -28,7 +28,7 @@
 
 - (IBAction)showMessage:(id)sender
 {
-    UIAlertView *helloWorld = [[UIAlertView alloc] initWithTitle:@"hello" message:@"world" delegate:nil cancelButtonTitle:@"ok" otherButtonTitles:nil];
+    UIAlertView *helloWorld = [[UIAlertView alloc] initWithTitle:@"hello hello" message:@"world" delegate:nil cancelButtonTitle:@"ok" otherButtonTitles:nil];
     [helloWorld show];
 }
 
